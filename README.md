@@ -109,6 +109,6 @@ https://x.com/atomicalsxyz (X - Formerly Twitter)
 
 We greatly appreciate any donation to help support Atomicals Protocol development. We worked out of passion and kindness for the world, we believe this technology must exist and be free for all to use. Bitcoin is our one hope for freedom and digital sovereignty and we intend to do our best to make it a reality.
 
-BTC: bc1pa5hvv3w3wjwfktd63zcng6yeccxg9aa90e34n9jrjw3thgc52reqxw6has
+BTC: bc1p7ay8g9t9emd88udl6zqmhrdgnp23crdvpu76ag5n46909z0mdxcse85203
 
 ![Donate to Atomicals Development](donate.png)
